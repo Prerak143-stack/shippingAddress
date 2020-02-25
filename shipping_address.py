@@ -1,5 +1,4 @@
-# I am Prerak Patel and my student number is 000736376 I haven't shared my program
-# with anyone. My professor name is Tiffany,Antopoloski
+
 
 def checkstreetnumber(street):
     number_count = 0
